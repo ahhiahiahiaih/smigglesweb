@@ -10,3 +10,5 @@ run:
 
 clean:
 	$(MAKE) -C $(SUBDIR) clean
+
+what about... DON'T make file... have you thought of that JULES?? i thought not...
